@@ -8,7 +8,7 @@
 
 > **A high-performance, luxury Direct-to-Consumer (D2C) web application built for engineered clean living and molecular water purification systems.**
 
-🌐 **Live Demo:** [https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/](https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/)  
+🌐 **Live Demo:** [https://vael-puretech.vercel.app](https://vael-puretech.vercel.app)  
 📁 **Repository:** [https://github.com/pavanipoluri/vael-puretech](https://github.com/pavanipoluri/vael-puretech)
 
 ---
@@ -87,7 +87,7 @@ npm run build
 
 **Pavani Poluri**
 * **GitHub:** [@pavanipoluri](https://github.com/pavanipoluri)
-* **Live Project:** [https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/](https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/)
+* **Live Project:** [https://vael-puretech.vercel.app](https://vael-puretech.vercel.app)
 
 ---
 
