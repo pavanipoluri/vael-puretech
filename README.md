@@ -1,80 +1,94 @@
-# VAEL PureTech™ | Flagship D2C Storefront & Agency Client Pitch Showcase
+# VAEL PureTech™ | Next-Gen D2C Storefront
 
-> **High-Ticket D2C E-Commerce Experience & Conversion Rate Optimization (CRO) Showcase for Engineered Clean Living Tech.**
+![VAEL PureTech Banner](https://img.shields.io/badge/VAEL-PureTech%E2%84%A2-00E5FF?style=for-the-badge)
+[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+
+> **A high-performance, luxury Direct-to-Consumer (D2C) web application built for engineered clean living and molecular water purification systems.**
+
+🌐 **Live Demo:** [https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/](https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/)  
+📁 **Repository:** [https://github.com/pavanipoluri/vael-puretech](https://github.com/pavanipoluri/vael-puretech)
 
 ---
 
 ## 💎 Project Overview
-**VAEL PureTech** is an ultra-premium, production-ready Direct-to-Consumer (D2C) website built for high Average Order Value (\$500 – \$1,500+) engineered home systems (water purification, active bio-mineralization, and smart fixtures).
 
-It serves a dual purpose:
-1. **Flagship D2C Storefront**: An Apple/Dyson-caliber e-commerce platform with interactive 7-stage molecular engineering teardowns, household savings calculators, and a 4-step modular bundle builder.
-2. **Agency Client Acquisition Engine**: Built-in "Agency Mode" with live CRO strategy overlays and copyable cold pitch scripts to help you pitch and close \$10,000 – \$30,000 web design & development contracts.
+**VAEL PureTech** is an ultra-premium, production-ready Direct-to-Consumer (D2C) web platform engineered for high Average Order Value (\$500–\$1,500+) home infrastructure products. 
 
----
-
-## 🚀 Key Conversion Modules
-
-### 1. Interactive 7-Stage Engineering Teardown
-* Clickable, scrubbable molecular layers (Sediment, Catalytic Carbon, 0.0001μ RO Membrane, Coconut Carbon, Bio-Mineral Remineralization, UV-C Sterilization, HydroSense Smart Sensor).
-* Eliminates buyer skepticism by visually detailing pore ratings and laboratory removal rates for PFAS, microplastics, and heavy metals.
-
-### 2. Interactive Household ROI & Contaminant Calculator
-* Dynamic sliders for family size, water habits (bottled, jugs, pitcher, tap), and weekly spend.
-* Real-time metrics for annual dollar savings, plastic bottles eliminated, and nanoplastics avoided.
-* Instantly applies calculated savings to system checkout.
-
-### 3. "Build Your System" Modular Configurator
-* Step 1: Purification Core (Undersink Pro vs Countertop Element).
-* Step 2: Smart OLED Faucet Finishes (Matte Noir, Brushed Titanium, Royal Brass, Arctic Chrome).
-* Step 3: Ecosystem Modular Add-ons (Sub-zero chiller, mineral boost, pro home installation).
-* Step 4: Subscription & Lifetime Warranty Tier (Annual auto-replenish at 20% discount).
-* Live sticky price bar with Affirm/Klarna 0% APR financing breakdown.
-
-### 4. Slide-Out Cart & Simulated Frictionless Checkout
-* Dynamic free shipping milestone meter.
-* 1-Click cross-sell recommendation pods.
-* Simulated 256-bit encrypted checkout with Apple Pay, Card, and Affirm options, culminating in celebratory confetti.
-
-### 5. Built-in "Agency Mode" (Client Pitch Suite)
-* Toggle the **"Agency Mode"** button in the top navigation bar to turn on purple/amber CRO annotations over each section.
-* Opens the **Client Pitch Deck & Outreach Script Modal**, complete with a battle-tested cold email template for reaching out to founders of clean-living and home-tech brands.
+Unlike generic e-commerce templates that rely on flat product photo grids, this application delivers **interactive technical storytelling, dynamic household savings algorithms, and modular product configuration** to build customer trust and lift conversion rates.
 
 ---
 
-## 🛠️ Tech Stack
-* **Framework**: React 18, Vite
-* **Styling**: Tailwind CSS, Custom Glassmorphism, Responsive Grid
-* **Icons & Animation**: Lucide React, Canvas Confetti
-* **State Management**: React Context (`StoreContext.jsx`) for cart, modular builder, and agency mode
+## ✨ Key Features & Technical Highlights
+
+### 🔬 1. Interactive 7-Stage Molecular Teardown
+* Scrubbable, clickable filtration layers (Sediment, Catalytic Carbon, 0.0001μ RO Membrane, Coconut Polish, Bio-Mineral Remineralization, UV-C Sterilization, HydroSense Smart Sensor).
+* Dynamic state updates showcasing pore micron ratings, intercepted chemicals (PFAS, microplastics, lead), and laboratory efficacy.
+
+### 💰 2. Interactive Household ROI & Contaminant Calculator
+* Dynamic sliders for household members, current water habits (bottled, 5-gal delivery, pitcher, tap), and weekly spend.
+* Real-time formula computation showing **5-year dollar savings**, **payback timeline in months**, and **ocean-bound plastic bottles prevented**.
+
+### 🛠️ 3. 4-Step Modular System Configurator (Bundle Builder)
+* **Step 01:** Purification Core Selection (Undersink Pro vs Element Countertop).
+* **Step 02:** Architectural OLED Smart Faucet Finishes (Matte Noir, Brushed Titanium, Royal Brass, Arctic Chrome).
+* **Step 03:** Modular Add-on Upgrades (Sub-Zero 37°F HydroChill unit, Himalayan Mineral Pods, Pro Installation).
+* **Step 04:** Annual Auto-Replenish Subscription & Lifetime Warranty Tier.
+* Live sticky price calculation with Affirm / Klarna 0% APR installment estimates.
+
+### 🛍️ 4. Slide-Out Cart Drawer & Frictionless Checkout
+* Global shopping cart state managed via **React Context API**.
+* Free shipping milestone meter with dynamic progress calculation.
+* 1-Click cross-sell upsell module for replacement cartridges.
+* Simulated 256-bit encrypted checkout flow with multi-payment options (Apple Pay, Credit Card, Affirm) and celebratory confetti confirmation.
+
+### 📊 5. Conversion Rate Optimization (CRO) Mode
+* Toggleable strategic layer demonstrating how UX architecture overcomes price resistance for high-ticket products.
 
 ---
 
-## 💻 Running the Project Locally
+## 🛠️ Tech Stack & Architecture
+
+* **Frontend Library:** React.js 18
+* **Build Tool:** Vite 6
+* **Styling & Design:** Tailwind CSS, Custom Glassmorphism, CSS Grid, Responsive Flexbox
+* **Icons & UI Feedback:** Lucide React, Canvas Confetti
+* **State Management:** React Context API (`StoreContext.jsx`)
+* **Deployment & CI/CD:** Vercel
+
+---
+
+## 🚀 Running the Project Locally
+
+Clone the repository and run the development server locally:
 
 ```bash
+# Clone repository
+git clone https://github.com/pavanipoluri/vael-puretech.git
+
+# Navigate into project directory
+cd vael-puretech
+
 # Install dependencies
 npm install
 
-# Run Vite dev server
+# Start development server
 npm run dev
 
 # Build for production
 npm run build
-
-# Preview production build
-npm run preview
 ```
 
 ---
 
-## 🎯 How to Use This to Land Paying Clients
+## 👩‍💻 Author
 
-1. **Deploy to Vercel/Netlify**: Run `npm run build` or link your GitHub repo for instant live hosting.
-2. **Find High-Ticket Prospects**: Search LinkedIn, Twitter/X, and Shopify directory for brands selling:
-   - Water purifiers (e.g., reverse osmosis, countertop filters)
-   - Medical-grade air purifiers & HEPA systems
-   - Non-toxic ceramic cookware systems
-   - Smart mattresses & circadian lighting gear
-3. **Send the Included Cold Script**: Use the script in the **Agency Pitch Modal** to reach out to founders, pointing them to this live demo.
-4. **Offer a Free 10-Minute Video Audit**: Walk through their current site and contrast it with the interactive teardowns and bundle builders in this project.
+**Pavani Poluri**
+* **GitHub:** [@pavanipoluri](https://github.com/pavanipoluri)
+* **Live Project:** [https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/](https://vael-puretech-689rqef5m-pavanipoluri.vercel.app/)
+
+---
+
+⭐ *If you found this project helpful or inspiring, feel free to give it a star on GitHub!*
